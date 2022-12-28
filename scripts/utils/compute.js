@@ -1,3 +1,4 @@
+console.log('加载模块compute.js')
 define(function(require, exports, module) {
     'use strict';
     module.exports = {
